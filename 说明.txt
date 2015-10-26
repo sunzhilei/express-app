@@ -1,0 +1,1 @@
+基于 nodejs 的 express 模块架构，然后通过 express-react-views 模块加入了React作为express的模板引擎，做了一个使用express的路由、中间件、react模板引擎和错误处理的Demo
